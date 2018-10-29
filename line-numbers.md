@@ -6,7 +6,11 @@
 #### 6
 #### 7 Mr.mueller was also here!
 #### 8
-#### 9 Github is really good 
+
+#### 9 
+
+#### 9 Github is awesome
+
 #### 10
 #### 11
 #### 12
