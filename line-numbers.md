@@ -2,7 +2,7 @@
 #### 2
 #### 3 Mr. Shmueller wuz here!
 #### 4
-#### 5 collaborator's text
+#### 5 collaborator's text!
 #### 6
 #### 7 Mr.mueller was also here!
 #### 8
